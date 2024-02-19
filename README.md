@@ -7,7 +7,7 @@ Planet App is a Kotlin-based mobile application that offers a rich exploration e
 
 2. Educational Content: Planet App offers a rich library of educational content, including articles, videos, and infographics, curated by astronomers and space experts to deepen    users' understanding of the universe.
 
-3. ffline Access: To accommodate users without constant internet access, the app offers offline access to previously viewed content and basic features, ensuring uninterrupted exploration even in remote locations.
+3. offline Access: To accommodate users without constant internet access, the app offers offline access to previously viewed content and basic features, ensuring uninterrupted exploration even in remote locations.
 
 4. Accessibility Features: The app is designed with accessibility in mind, offering features such as text-to-speech functionality, adjustable font sizes, and high-contrast themes to accommodate users with diverse needs.
 

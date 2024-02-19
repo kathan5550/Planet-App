@@ -18,3 +18,9 @@ Planet App is designed with accessibility features such as text-to-speech, adjus
 Contributions to Planet App are welcome! Whether it's through code contributions, bug reporting, feature suggestions, or translations, we value your input. Please see our Contribution Guidelines for more information on how to get involved.
 
 Planet App is not just a tool for stargazing; it's a gateway to the wonders of the cosmos, inspiring curiosity and fostering a deeper appreciation for the vastness and beauty of the universe. With its innovative features and commitment to accuracy and education, Planet App sets a new standard for mobile astronomy applications.
+
+# App Visuals
+<img width="319" alt="Screenshot 2024-02-18 at 9 21 13 PM" src="https://github.com/kathan5550/Planet-App/assets/105222761/31d7abe4-ee9d-4472-8a69-590d58fe996b">
+<img width="328" alt="Screenshot 2024-02-18 at 9 21 55 PM" src="https://github.com/kathan5550/Planet-App/assets/105222761/c4a16aa7-3c44-4ad1-88e0-65217e7746e9">
+
+
